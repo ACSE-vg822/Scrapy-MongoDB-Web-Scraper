@@ -32,13 +32,13 @@ mkdir -p ~/path/to/your/project/data/db
 mongod --dbpath ~/path/to/your/project/data/db
 
 # 6. (Optional) Configure MongoDB for WSL
-# If you are using WSL, you may also want to specify a different port or use configuration files:
+## If you are using WSL, you may also want to specify a different port or use configuration files:
 mongod --dbpath ~/data/db --bind_ip 0.0.0.0 --port 27017
 
-# 7. Connect to the MongoDB Server
+# 7. Connect to the MongoDB Server in a new terminal window
 mongo
 
-# If you encounter an error:
+## If you encounter an error:
 sudo apt update
 sudo apt install mongodb-clients
 
