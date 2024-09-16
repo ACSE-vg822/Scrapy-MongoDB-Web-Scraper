@@ -1,0 +1,6 @@
+requests
+pdfkit
+beautifulsoup4 
+scrapy
+pymongo
+# mongodb-clients
