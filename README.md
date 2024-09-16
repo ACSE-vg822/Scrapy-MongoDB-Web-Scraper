@@ -1,7 +1,7 @@
 # 🕷️ Scrapy-MongoDB Web Scraper  
 Effortlessly scrape the web using just a few keywords! 
 
-Save the existing PDFs in a separate folder and convert the data stored MongoDB server into PDFs or json.
+Save the existing PDFs in a separate folder and convert the data stored in the MongoDB database into PDFs or json.
 
 ## 📖 Table of Contents
 - [Overview](#overview)
